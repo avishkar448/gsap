@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* font-family: "kajiro"; */
+}
+
+html, body{
+height: 100%;
+width: 100%;
+}
+
+.page1{
+    height: 100%;
+    width: 100%;
+    background-color: antiquewhite;
+}
+
+.box{
+    height:300px ;
+    width:300px ;
+    background-color: blueviolet;
+}
+
+h1{
+    font-size: 50px;
+    color: red;
+}
+
+
+h2{
+    font-size: 40px;
+    color: blue;
+}
+
+
+h3{
+    font-size: 30px;
+    color: green;
+}
